@@ -1,0 +1,6 @@
+{
+	"watch": ["src"],
+	"ignore": ["uploads", "uploads/*", "node_modules"],
+	"ext": "js,json",
+	"legacyWatch": true
+}
